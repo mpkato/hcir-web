@@ -21,16 +21,6 @@ jobs:
           extended: true
       - name: Build Hugo
         run: hugo -v
-      - name: Check created files
-        run: ls public/author/
-      - name: Deploy via SFTP for deletion
-        uses: SamKirkland/FTP-Deploy-Action@3.1.1
-        with:
-          ftp-server: ${{ secrets.FTP_HOST }}
-          ftp-username: ${{ secrets.FTP_USERNAME }}
-          ftp-password: ${{ secrets.FTP_PASSWORD }}
-          git-ftp-args: --insecure
-          local-dir: static/media
       - name: Deploy via SFTP
         uses: SamKirkland/FTP-Deploy-Action@3.1.1
         with:
