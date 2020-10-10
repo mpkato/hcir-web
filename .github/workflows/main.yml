@@ -6,11 +6,12 @@ on:
       - main
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Source
-        uses: actions/checkout@v1
+      - uses: actions/checkout@v2.1.0
+        with:
+          fetch-depth: 2
       - name: Clone submodule
         run: git submodule update --init --recursive
       - name: Hugo setup
@@ -22,6 +23,14 @@ jobs:
         run: hugo -v
       - name: Check created files
         run: ls public/author/
+      - name: Deploy via SFTP for deletion
+        uses: SamKirkland/FTP-Deploy-Action@3.1.1
+        with:
+          ftp-server: ${{ secrets.FTP_HOST }}
+          ftp-username: ${{ secrets.FTP_USERNAME }}
+          ftp-password: ${{ secrets.FTP_PASSWORD }}
+          git-ftp-args: --insecure
+          local-dir: static/media
       - name: Deploy via SFTP
         uses: SamKirkland/FTP-Deploy-Action@3.1.1
         with:
