@@ -50,6 +50,6 @@ subtitle = "Research unit at University of Tsukuba"
  css_class = ""
 +++
 
-本グループは、必要な情報が必要な時に入手可能なAI社会の実現に向けて、公平性、説明責任、機密性、透明性、安全性を考慮した信頼できる人間中心の情報検索および推薦技術に関する研究開発に国内外の産学と連携して取り組む。
+本グループは、必要な情報が必要な時に入手可能なAI社会の実現に向けて、公平性、説明責任、機密性、透明性、安全性を考慮した信頼できる人間中心の情報検索および推薦技術に関する研究開発に国内外の産学と連携して取り組んでいます。
 
-The group will collaborate with industry and academia in Japan and abroad on R&D of trustworthy human-centered information retrieval and recommendation technologies that can promote fairness, accountability, confidentiality, transparency, and security to achieve an AI society where relevant information is available as needed.
+This group collaborates with industry and academia in Japan and abroad on R&D of trustworthy human-centered information retrieval and recommendation technologies that can promote fairness, accountability, confidentiality, transparency, and security to achieve an AI society where relevant information is available as needed.
