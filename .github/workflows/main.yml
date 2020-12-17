@@ -15,7 +15,7 @@ jobs:
       - name: Clone submodule
         run: git submodule update --init --recursive
       - name: Hugo setup
-        uses: peaceiris/actions-hugo@v2.3.0
+        uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 0.79.0
           extended: true
