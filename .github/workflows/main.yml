@@ -14,8 +14,8 @@ jobs:
           fetch-depth: 2
       - name: Clone submodule
         run: git submodule update --init --recursive
-      - name: git status
-        run: git status -uno --porcelain
+      - name: git reset
+        run: git reset --hard
       - name: Hugo setup
         uses: peaceiris/actions-hugo@v2
         with:
