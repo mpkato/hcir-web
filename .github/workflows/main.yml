@@ -23,6 +23,8 @@ jobs:
         run: hugo -v
       - name: git status
         run: git status -uno --porcelain
+      - name: reset jsconfig.json
+        run: git checkout assets/jsconfig.json
       - name: Deploy via SFTP
         uses: SamKirkland/FTP-Deploy-Action@3.1.1
         with:
