@@ -1,10 +1,10 @@
 ---
 # Display name
-title: HCIR Admin
+title: Makoto P. Kato
 
 # Username (this should match the folder name)
 authors:
-- admin
+- makoto-p-kato
 
 # Is this the primary user of the site?
 superuser: true
@@ -13,17 +13,17 @@ superuser: true
 role: 
 
 # Organizations/Affiliations
-# organizations:
-# - name: University of Tsukuba
+organizations:
+- name: University of Tsukuba
 # url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
-# interests:
-# - Information Retrieval
-# - Web Mininig
-# - Machine Learning
+interests:
+- Information Retrieval
+- Web Mininig
+- Machine Learning
 
 # education:
 #   courses:
@@ -68,6 +68,6 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-# - Core Members
+user_groups:
+- Core Members
 ---
