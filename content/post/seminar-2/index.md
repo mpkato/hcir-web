@@ -3,7 +3,7 @@
 
 title: "HCIR Seminar 2"
 subtitle: ""
-summary: "機械学習と公平性"
+summary: "本セミナーでは、神嶌 敏弘先生（産業技術総合研究所）をお招きして、機械学習と公平性に関するご講演をいただきます。"
 authors: []
 tags: []
 categories: []
