@@ -41,3 +41,5 @@ projects: []
 **対象者：** リサーチユニット構成員および指導学生、ACM SIGIR 東京支部会員、一般
 
 **参加方法：** 一般の方：[事前登録](https://forms.office.com/r/ptu7izRGfM)（締切：3/27）をお願いします。それ以外の方：MLやSlack等で告知します。
+
+**共催：** 本セミナーは、筑波大学人間中心情報検索・推薦システムリサーチユニットとTokyo ACM SIGIR Chapterの共催です。
