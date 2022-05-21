@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Adam Jatowt"
+title: "Douglas W. Oard"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "adam-jatowt"
+- "douglas-w-oard"
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: University of Innsbruck
+- name: University of Maryland
 # url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,10 +22,9 @@ bio:
 
 # List each interest with a dash
 interests:
-- Question answering
-- Temporal IR
-- Timeline summarization
-- Archival search & informatics
+- Cross-Language Information Retrieval
+- Speech Retrieval
+- Search Among Sensitive Content
 
 education:
 # courses:

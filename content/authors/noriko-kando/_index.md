@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Adam Jatowt"
+title: "Noriko Kando"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "adam-jatowt"
+- "noriko-kando"
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: University of Innsbruck
+- name: National Institute of Informatics
 # url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,10 +22,11 @@ bio:
 
 # List each interest with a dash
 interests:
-- Question answering
-- Temporal IR
-- Timeline summarization
-- Archival search & informatics
+- Information Retrieval
+- Information Access
+- Interactive Information Retrieval
+- Natural Language Processing
+- Evaluation
 
 education:
 # courses:

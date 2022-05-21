@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Adam Jatowt"
+title: "Harumi Murakami"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "adam-jatowt"
+- "harumi-murakami"
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: University of Innsbruck
+- name: Osaka Metropolitan University
 # url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,10 +22,8 @@ bio:
 
 # List each interest with a dash
 interests:
-- Question answering
-- Temporal IR
-- Timeline summarization
-- Archival search & informatics
+- Information Retrieval
+- Artificial Intelligence
 
 education:
 # courses:

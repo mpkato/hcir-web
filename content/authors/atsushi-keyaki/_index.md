@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Denso IT Laboratory, Inc.
+- name: Hitotsubashi University
 # url: ""
 
 # Short bio (displayed in user profile at end of posts)
