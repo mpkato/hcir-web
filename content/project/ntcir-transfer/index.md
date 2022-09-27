@@ -14,9 +14,7 @@ header:
   image: ""
 ---
 
-# NTCIR Transfer Task
-
-## Kick-Off Event
+## Kick-Off Event (2022.09.28)
 
 - [English Slides with audio](https://docs.google.com/presentation/d/1bPCdIBdoIKd2oN4hu9z6nxTWPc-sHAl29qUIVpfpkms/edit?usp=sharing)
 - [日本語スライド（音声付き）](https://docs.google.com/presentation/d/1i5kuE2jSqh5e0NCyflaaixg6q6bkFu9IyHXPnkoldwI/edit?usp=sharing)
