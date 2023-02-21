@@ -33,3 +33,4 @@ jobs:
           ftp-password: ${{ secrets.FTP_PASSWORD }}
           git-ftp-args: --insecure
           local-dir: public
+          server-dir: htdocs-ssl
