@@ -22,10 +22,9 @@ bio:
 
 # List each interest with a dash
 interests:
-- Conversation Generation
-- Affective Computing
-- Natural Language Understanding
-- Active Learning
+- Explainable Affective Computing
+- Neuro-Symbolic AI
+- Trustworthy AI
 
 education:
 # courses:
