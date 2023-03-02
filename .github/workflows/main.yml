@@ -26,7 +26,7 @@ jobs:
       - name: reset jsconfig.json
         run: git checkout assets/jsconfig.json
       - name: Deploy via SFTP
-        uses: SamKirkland/FTP-Deploy-Action@3.1.2
+        uses: SamKirkland/FTP-Deploy-Action@v3.1.2-patch
         with:
           ftp-server: ${{ secrets.FTP_HOST }}
           ftp-username: ${{ secrets.FTP_USERNAME }}
