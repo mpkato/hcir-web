@@ -26,10 +26,12 @@ jobs:
       - name: reset jsconfig.json
         run: git checkout assets/jsconfig.json
       - name: Deploy via SFTP
-        uses: SamKirkland/FTP-Deploy-Action@v3.1.2
+        uses: wlixcc/SFTP-Deploy-Action@v1.2.4
         with:
-          ftp-server: ${{ secrets.FTP_HOST }}
-          ftp-username: ${{ secrets.FTP_USERNAME }}
-          ftp-password: ${{ secrets.FTP_PASSWORD }}
-          git-ftp-args: --insecure
-          local-dir: public
+            username: ${{ secrets.FTP_USERNAME }}
+            server: ${{ secrets.FTP_HOST }}
+            port: ${{ secrets.FTP_PORT }}
+            password: ${{ secrets.FTP_PASSWORD }}
+            local_path: './public/*'
+            remote_path: './htdocs-ssl'
+            sftp_only: true
