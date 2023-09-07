@@ -7,8 +7,8 @@ summary: "本セミナーでは、Joemon M. Jose教授（グラスゴー大学�
 authors: []
 tags: []
 categories: []
-date: 2023-09-06T09:00:00+09:00
-lastmod: 2023-09-06T09:00:00+09:00
+date: 2023-09-07T09:00:00+09:00
+lastmod: 2023-09-07T09:00:00+09:00
 featured: false
 draft: false
 
