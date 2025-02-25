@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Glasgow x Tsukuba Joint International Workshop: Forefront of Advanced AI Research Methods"
+title: "Glasgow x Tsukuba Joint International Seminar: Forefront of Advanced AI Research Methods"
 subtitle: ""
-summary: "本国際共同ワークショップではグラスゴー大学と筑波大学から先生方をお招きしてAI技術に関する研究手法の知見を共有していただきます。"
+summary: "本共同国際セミナーではグラスゴー大学と筑波大学から先生方をお招きしてAI技術に関する研究手法の知見を共有していただきます。"
 authors: []
 tags: []
 categories: []
