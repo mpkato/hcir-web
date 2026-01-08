@@ -53,3 +53,8 @@ subtitle = "Research unit at University of Tsukuba"
 本グループは、必要な情報が必要な時に入手可能なAI社会の実現に向けて、公平性、説明責任、機密性、透明性、安全性を考慮した信頼できる人間中心の情報検索および推薦技術に関する研究開発に国内外の産学と連携して取り組んでいます。
 
 This group collaborates with industry and academia in Japan and abroad on R&D of trustworthy human-centered information retrieval and recommendation technologies that can promote fairness, accountability, confidentiality, transparency, and security to achieve an AI society where relevant information is available as needed.
+
+---
+:information_source: 本事業は2025年9月末を持ちまして終了いたしました。今後は[筑波大学情報検索リサーチグループ](https://ir-tsukuba.github.io/)として、活動を継続していきますので、何卒よろしくお願い申し上げます。なお、本サイトは2026年3月末に閉鎖予定です。
+
+:information_source: This project concluded at the end of September 2025. Henceforth, our activities will continue under the name ofthe [Information Retrieval Research Group at University of Tsukuba](https://ir-tsukuba.github.io/). We sincerely appreciate your continued support. Please be advised that this website is scheduled to be closed at the end of March 2026.
